@@ -1,0 +1,5 @@
+PID tuning:
+Extruder:
+PID_CALIBRATE HEATER=extruder TARGET=200
+Bed:
+PID_CALIBRATE HEATER=heater_bed TARGET=60
