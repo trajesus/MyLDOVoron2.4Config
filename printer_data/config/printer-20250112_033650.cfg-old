@@ -1,5 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
 # This file contains pin mappings for the BIGTREETECH Octopus Max EZ.
 # STM32H723 with a "128KiB bootloader", "25 MHz crystal",
 # and one of these as Communication interface:
