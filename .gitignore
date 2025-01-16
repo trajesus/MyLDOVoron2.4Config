@@ -2,12 +2,8 @@
 secrets.conf
 *.swp
 *.tmp
-./printer_data/config/printer-[0-9]*_[0-9]*.cfg
+printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
 *.csv
 *.zip
-./printer_data/config/*.png
-./printer_data/config/*.jpg
-./printer_data/config/secrets/*
-
